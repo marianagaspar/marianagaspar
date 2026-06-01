@@ -12,15 +12,15 @@
 ### Sobre mim
  
 Aprendo programação do zero e partilho o progresso aqui.
-De dia construo a [Artista Master Academy](https://www.artistanailpro.pt) — uma plataforma de cursos online de nail art.
-De noite estudo Python, HTML, CSS e JavaScript.
+Estudante da escola 42 de Programaçao
+Nos tempos livres estudo Python, HTML, CSS e JavaScript.
  
 Acredito que qualquer pessoa pode aprender a programar — estou a prová-lo.
  
 ---
  
 ### O que estou a aprender
- 
+- **42** — Shell / C / Python
 - **Frontend** — HTML5, CSS3, JavaScript vanilla
 - **Python** — fundamentos, estruturas de dados, scripting
 - **Git & GitHub** — controlo de versões e colaboração
@@ -32,7 +32,7 @@ Acredito que qualquer pessoa pode aprender a programar — estou a prová-lo.
 | Projecto | Descrição | Tecnologias |
 |----------|-----------|-------------|
 | [Artista Master Academy](https://github.com/marianagaspar/ArtistaMasterAcademy) | Plataforma de cursos online de nail art com 20+ cursos, popup de produto, integração Google Sheets | HTML · CSS · JS · PHP |
-| [Introdução à Programação](https://github.com/marianagaspar/introducaoaprograma-ao) | Exercícios e projectos da escola de programação | Python |
+| [Introdução à Programação](https://github.com/marianagaspar/introducaoaprograma-ao) | Aula Iniciante de conceitos para programadores |
  
 ---
  
