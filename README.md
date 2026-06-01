@@ -27,22 +27,6 @@ Acredito que qualquer pessoa pode aprender a programar — estou a prová-lo.
 - **Próximo** — React, bases de dados
 ---
  
-### Projectos
- 
-| Projecto | Descrição | Tecnologias |
-|----------|-----------|-------------|
-| [Artista Master Academy](https://github.com/marianagaspar/ArtistaMasterAcademy) | Plataforma de cursos online de nail art com 20+ cursos, popup de produto, integração Google Sheets | HTML · CSS · JS · PHP |
-| [Introdução à Programação](https://github.com/marianagaspar/introducaoaprograma-ao) | Aula Iniciante de conceitos para programadores |
- 
----
- 
-### Estatísticas
- 
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marianagaspar&show_icons=true&theme=rose_pine&hide_border=true&title_color=c9897a&icon_color=c8a96e&text_color=7a5c52&bg_color=fdf8f5)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianagaspar&layout=compact&theme=rose_pine&hide_border=true&title_color=c9897a&text_color=7a5c52&bg_color=fdf8f5)
- 
 </div>
 ---
  
