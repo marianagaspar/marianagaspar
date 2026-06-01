@@ -1,36 +1,27 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mariana%20Gaspar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Portugal%20%F0%9F%87%B5%F0%9F%87%B9&descAlignY=55&descSize=18"/>
 <div align="center">
-# Mariana Gaspar
- 
-**Desenvolvedora Frontend · Nail Art Entrepreneur · Portugal**
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianagasparpt/)
-[![Website](https://img.shields.io/badge/Website-artistanailpro.pt-c9897a?style=flat-square)](https://www.artistanailpro.pt)
- 
-</div>
----
+<a href="https://www.linkedin.com/in/marianagasparpt/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.marianagaspar.pt">
+  <img src="https://img.shields.io/badge/-marianagaspar.pt-555?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="mailto:mvgaspar@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br/><br/>
+ </div>
  
 ### Sobre mim
  
-Aprendo programação do zero e partilho o progresso aqui.
-Estudante da escola 42 de Programaçao
-Nos tempos livres estudo Python, HTML, CSS e JavaScript.
- 
-Acredito que qualquer pessoa pode aprender a programar — estou a prová-lo.
- 
----
- 
-### O que estou a aprender
-- **42** — Shell / C / Python
-- **Frontend** — HTML5, CSS3, JavaScript vanilla
-- **Python** — fundamentos, estruturas de dados, scripting
-- **Git & GitHub** — controlo de versões e colaboração
-- **Próximo** — React, bases de dados
----
- 
+```python
+class MarianaGaspar:
+    name       = "Mariana Gaspar"
+    location   = "Lisboa, Portugal"
+    studying   = "42 Lisboa"
+    learning   = ["C", "Python", "JavaScript", "HTML", "CSS"]
+    goal       = "Transformar criatividade em código"
+    fun_fact   = "Aprendi a programar construindo projectos reais"
+```
 </div>
----
- 
-<div align="center">
-*"A única forma de aprender a programar é programar."*
- 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
